@@ -3,7 +3,7 @@
 Aplicação de previsão do tempo em tempo real desenvolvida com **Next.js 14 App Router**, consumindo a API gratuita da [OpenWeatherMap](https://openweathermap.org/).
 
 
-Aqui segue Link do projeto VERCEL "https://weathernow-climatempo.vercel.app/"
+Aqui segue Link do projeto VERCEL "https://weather-now-phi-plum.vercel.app/"
 ---
 link salvo na plataforma rodando 
 
